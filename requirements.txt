@@ -49,7 +49,7 @@ sniffio==1.3.1
 starlette==0.36.3
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
-tensorflow==2.16.0rc0
+tensorflow
 tensorflow-intel==2.16.0rc0
 termcolor==2.4.0
 threadpoolctl==3.3.0

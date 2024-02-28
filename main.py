@@ -18,7 +18,7 @@ nltk.download('wordnet')
 nltk.download('stopwords')
 
 # Cargar los datos del archivo JSON
-with open(r'C:\fastAPI\intents.json', 'r', encoding='utf-8') as file:
+with open(r'intents.json', 'r', encoding='utf-8') as file:
     intents = json.load(file)
 
 # Extraer las categorías y los mensajes

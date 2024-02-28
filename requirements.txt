@@ -50,7 +50,7 @@ starlette==0.36.3
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
 tensorflow==2.5.0
-tensorflow-intel==2.11.0
+tensorflow-intel==0.0.1
 termcolor==2.4.0
 threadpoolctl==3.3.0
 tqdm==4.66.2
